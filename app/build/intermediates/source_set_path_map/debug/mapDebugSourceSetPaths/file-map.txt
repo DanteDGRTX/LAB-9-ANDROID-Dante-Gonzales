@@ -1,0 +1,55 @@
+com.dantegonzales.lab9android.app-jetified-lifecycle-runtime-ktx-release-0 C:\Users\Admin\.gradle\caches\8.9\transforms\1a41d7dba0ae3e554de2adeef1f2aef1\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.dantegonzales.lab9android.app-jetified-ui-tooling-preview-release-1 C:\Users\Admin\.gradle\caches\8.9\transforms\1d8f6ecaf00417bbe277b26cd161b45b\transformed\jetified-ui-tooling-preview-release\res
+com.dantegonzales.lab9android.app-jetified-profileinstaller-1.3.1-2 C:\Users\Admin\.gradle\caches\8.9\transforms\1e520eb442dadde4f5e60cf0aab6e17c\transformed\jetified-profileinstaller-1.3.1\res
+com.dantegonzales.lab9android.app-navigation-runtime-ktx-2.6.0-3 C:\Users\Admin\.gradle\caches\8.9\transforms\22baad8911631a51f532e25ae001e888\transformed\navigation-runtime-ktx-2.6.0\res
+com.dantegonzales.lab9android.app-jetified-ui-test-manifest-1.6.7-4 C:\Users\Admin\.gradle\caches\8.9\transforms\260ff79d1fb8901a6f42d4f11952c350\transformed\jetified-ui-test-manifest-1.6.7\res
+com.dantegonzales.lab9android.app-jetified-lifecycle-process-2.8.6-5 C:\Users\Admin\.gradle\caches\8.9\transforms\27797ecabdd6cc98d922155a05b2cdc4\transformed\jetified-lifecycle-process-2.8.6\res
+com.dantegonzales.lab9android.app-jetified-activity-compose-1.9.2-6 C:\Users\Admin\.gradle\caches\8.9\transforms\28b9ce5ecefab0c3c0916a94b4dec879\transformed\jetified-activity-compose-1.9.2\res
+com.dantegonzales.lab9android.app-jetified-foundation-layout-release-7 C:\Users\Admin\.gradle\caches\8.9\transforms\30d4f8dcaf66b1b44fcf9973c6353f7a\transformed\jetified-foundation-layout-release\res
+com.dantegonzales.lab9android.app-navigation-common-2.6.0-8 C:\Users\Admin\.gradle\caches\8.9\transforms\332f80dacd1ffeef7860f036dfd455f3\transformed\navigation-common-2.6.0\res
+com.dantegonzales.lab9android.app-jetified-ui-util-release-9 C:\Users\Admin\.gradle\caches\8.9\transforms\374121f76be37f7c622404b928344afe\transformed\jetified-ui-util-release\res
+com.dantegonzales.lab9android.app-jetified-animation-core-release-10 C:\Users\Admin\.gradle\caches\8.9\transforms\4232a6ee6342c8737e02e7d498b2c9cd\transformed\jetified-animation-core-release\res
+com.dantegonzales.lab9android.app-jetified-ui-tooling-release-11 C:\Users\Admin\.gradle\caches\8.9\transforms\4234103bec3dab7dad8f47a559203259\transformed\jetified-ui-tooling-release\res
+com.dantegonzales.lab9android.app-lifecycle-livedata-core-2.8.6-12 C:\Users\Admin\.gradle\caches\8.9\transforms\43bdbadffec0cc38c80145d6f5b4e19b\transformed\lifecycle-livedata-core-2.8.6\res
+com.dantegonzales.lab9android.app-jetified-ui-text-release-13 C:\Users\Admin\.gradle\caches\8.9\transforms\497481999d0fb3a602cd761cb101c400\transformed\jetified-ui-text-release\res
+com.dantegonzales.lab9android.app-core-1.13.1-14 C:\Users\Admin\.gradle\caches\8.9\transforms\49c2a95aa896c415fc79d184b8ae1632\transformed\core-1.13.1\res
+com.dantegonzales.lab9android.app-jetified-ui-unit-release-15 C:\Users\Admin\.gradle\caches\8.9\transforms\4d4f01e07d573dc7881349557d214caa\transformed\jetified-ui-unit-release\res
+com.dantegonzales.lab9android.app-jetified-navigation-compose-2.6.0-16 C:\Users\Admin\.gradle\caches\8.9\transforms\4eddd36f933a237570665350793c8d76\transformed\jetified-navigation-compose-2.6.0\res
+com.dantegonzales.lab9android.app-jetified-savedstate-ktx-1.2.1-17 C:\Users\Admin\.gradle\caches\8.9\transforms\4f7ea5cea853caa523dcd8744e43ec43\transformed\jetified-savedstate-ktx-1.2.1\res
+com.dantegonzales.lab9android.app-jetified-ui-release-18 C:\Users\Admin\.gradle\caches\8.9\transforms\50954c7ff6eb5c4bebd921adb0652796\transformed\jetified-ui-release\res
+com.dantegonzales.lab9android.app-navigation-runtime-2.6.0-19 C:\Users\Admin\.gradle\caches\8.9\transforms\5455cbc813df0e1eb1ed2db140445aa6\transformed\navigation-runtime-2.6.0\res
+com.dantegonzales.lab9android.app-jetified-startup-runtime-1.1.1-20 C:\Users\Admin\.gradle\caches\8.9\transforms\583ac2451e986004b3b13ff2efcf4add\transformed\jetified-startup-runtime-1.1.1\res
+com.dantegonzales.lab9android.app-jetified-foundation-release-21 C:\Users\Admin\.gradle\caches\8.9\transforms\596df15a3ca192141907264f9db3bda9\transformed\jetified-foundation-release\res
+com.dantegonzales.lab9android.app-jetified-core-ktx-1.13.1-22 C:\Users\Admin\.gradle\caches\8.9\transforms\60a2ac459827188d99d48e19df972308\transformed\jetified-core-ktx-1.13.1\res
+com.dantegonzales.lab9android.app-jetified-ui-geometry-release-23 C:\Users\Admin\.gradle\caches\8.9\transforms\630d409e2ff7fedc694c7ad3ca645210\transformed\jetified-ui-geometry-release\res
+com.dantegonzales.lab9android.app-jetified-ui-graphics-release-24 C:\Users\Admin\.gradle\caches\8.9\transforms\660a538f80ce24fbcd02df6edb782683\transformed\jetified-ui-graphics-release\res
+com.dantegonzales.lab9android.app-jetified-lifecycle-viewmodel-release-25 C:\Users\Admin\.gradle\caches\8.9\transforms\66d4d56d9553ca67bc4bfcb34fe47c82\transformed\jetified-lifecycle-viewmodel-release\res
+com.dantegonzales.lab9android.app-jetified-savedstate-1.2.1-26 C:\Users\Admin\.gradle\caches\8.9\transforms\6d2a9f851177444cf2430b9b1979466e\transformed\jetified-savedstate-1.2.1\res
+com.dantegonzales.lab9android.app-jetified-activity-1.9.2-27 C:\Users\Admin\.gradle\caches\8.9\transforms\6de51836406428b2d1aaacf036bed6cb\transformed\jetified-activity-1.9.2\res
+com.dantegonzales.lab9android.app-core-runtime-2.2.0-28 C:\Users\Admin\.gradle\caches\8.9\transforms\71c47939590f9aee8a54178fb8311608\transformed\core-runtime-2.2.0\res
+com.dantegonzales.lab9android.app-jetified-appcompat-resources-1.4.2-29 C:\Users\Admin\.gradle\caches\8.9\transforms\75773ddbb214c9701bce47f0b82e751f\transformed\jetified-appcompat-resources-1.4.2\res
+com.dantegonzales.lab9android.app-jetified-runtime-saveable-release-30 C:\Users\Admin\.gradle\caches\8.9\transforms\7d78dede9e8ced584a77d5e9fbedec5e\transformed\jetified-runtime-saveable-release\res
+com.dantegonzales.lab9android.app-navigation-common-ktx-2.6.0-31 C:\Users\Admin\.gradle\caches\8.9\transforms\85a83f88fc1bfd25a1f474d5c5d3723f\transformed\navigation-common-ktx-2.6.0\res
+com.dantegonzales.lab9android.app-jetified-material-release-32 C:\Users\Admin\.gradle\caches\8.9\transforms\8eccefbd55cfadd0ed9803c7b9de95d0\transformed\jetified-material-release\res
+com.dantegonzales.lab9android.app-jetified-material3-release-33 C:\Users\Admin\.gradle\caches\8.9\transforms\a2d30ac78c5345f6a0b6df277d6ce5d8\transformed\jetified-material3-release\res
+com.dantegonzales.lab9android.app-jetified-annotation-experimental-1.4.0-34 C:\Users\Admin\.gradle\caches\8.9\transforms\b55da59040908690233911a39f280d65\transformed\jetified-annotation-experimental-1.4.0\res
+com.dantegonzales.lab9android.app-jetified-material-ripple-release-35 C:\Users\Admin\.gradle\caches\8.9\transforms\b6d68fea56c06c4740060be18e0a3e09\transformed\jetified-material-ripple-release\res
+com.dantegonzales.lab9android.app-jetified-ui-tooling-data-release-36 C:\Users\Admin\.gradle\caches\8.9\transforms\bfcc38e54dd73301ac393699850c61ae\transformed\jetified-ui-tooling-data-release\res
+com.dantegonzales.lab9android.app-jetified-runtime-release-37 C:\Users\Admin\.gradle\caches\8.9\transforms\c23a532c14b4ef9b2ef5ca7b6f56da4f\transformed\jetified-runtime-release\res
+com.dantegonzales.lab9android.app-jetified-coil-base-2.2.2-38 C:\Users\Admin\.gradle\caches\8.9\transforms\c76b22875185e1980a476edfe29c52be\transformed\jetified-coil-base-2.2.2\res
+com.dantegonzales.lab9android.app-jetified-lifecycle-runtime-release-39 C:\Users\Admin\.gradle\caches\8.9\transforms\c7cf45bd8ac3d46e08029ba63cfe4838\transformed\jetified-lifecycle-runtime-release\res
+com.dantegonzales.lab9android.app-jetified-lifecycle-viewmodel-compose-release-40 C:\Users\Admin\.gradle\caches\8.9\transforms\d16056ffcec79a1e2dcba43c3114cb0e\transformed\jetified-lifecycle-viewmodel-compose-release\res
+com.dantegonzales.lab9android.app-jetified-activity-ktx-1.9.2-41 C:\Users\Admin\.gradle\caches\8.9\transforms\d3e4d5a25dc0cfecc3e66e971c94ea66\transformed\jetified-activity-ktx-1.9.2\res
+com.dantegonzales.lab9android.app-jetified-lifecycle-viewmodel-savedstate-2.8.6-42 C:\Users\Admin\.gradle\caches\8.9\transforms\d74ad60a1da7cfd1cfd0a6f9b20e384e\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\res
+com.dantegonzales.lab9android.app-jetified-lifecycle-viewmodel-ktx-2.8.6-43 C:\Users\Admin\.gradle\caches\8.9\transforms\d7c081a09a5698c91d7d8e49f8ee3e74\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\res
+com.dantegonzales.lab9android.app-jetified-customview-poolingcontainer-1.0.0-44 C:\Users\Admin\.gradle\caches\8.9\transforms\dd00c5ea7f672190aaecac1bff35d54c\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.dantegonzales.lab9android.app-jetified-emoji2-1.3.0-45 C:\Users\Admin\.gradle\caches\8.9\transforms\f2b1407a44cf4ab9b63807b40ba85ab9\transformed\jetified-emoji2-1.3.0\res
+com.dantegonzales.lab9android.app-jetified-material-icons-core-release-46 C:\Users\Admin\.gradle\caches\8.9\transforms\f3ac67c67bd9c93cb64d99fb9378e1b2\transformed\jetified-material-icons-core-release\res
+com.dantegonzales.lab9android.app-jetified-animation-release-47 C:\Users\Admin\.gradle\caches\8.9\transforms\f9d9de66755cce52ff2a705e4736e84c\transformed\jetified-animation-release\res
+com.dantegonzales.lab9android.app-pngs-48 D:\LAB 9 ANDROID\app\build\generated\res\pngs\debug
+com.dantegonzales.lab9android.app-resValues-49 D:\LAB 9 ANDROID\app\build\generated\res\resValues\debug
+com.dantegonzales.lab9android.app-packageDebugResources-50 D:\LAB 9 ANDROID\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.dantegonzales.lab9android.app-packageDebugResources-51 D:\LAB 9 ANDROID\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.dantegonzales.lab9android.app-debug-52 D:\LAB 9 ANDROID\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.dantegonzales.lab9android.app-debug-53 D:\LAB 9 ANDROID\app\src\debug\res
+com.dantegonzales.lab9android.app-main-54 D:\LAB 9 ANDROID\app\src\main\res
